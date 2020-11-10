@@ -9,7 +9,7 @@ import {
 export default ({ data, isMobile }) => (
   <Card
     style={{ width: isMobile ? 350 : 450}}
-    className="card-lift--hover shadow border-0"
+    className="card-lift--hover shadow border-0 mt-4"
 
   >
     <CardBody className="py-3">

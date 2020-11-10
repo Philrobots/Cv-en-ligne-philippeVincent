@@ -2,38 +2,59 @@
     "sectionName": "Projets et implications",
     "projet" : [
         {
-            "projetName": "Bénévolat",
-            "organisation": "Le Grand défi Pierre Lavoie",
-            "image": "pierreLavoie.png",
-            "date": "Août 2019 - Juillet 2020",
-            "description": "J'ai fait du bénévolat pour Le Grand défi Pierre Lavoie",
+            "projetName": "Cofondateur",
+            "organisation": "WeBuildSite",
+            "image": "apple-icon copy.png",
+            "date": "Juin 2020 - En cours",
+            "description": "J'ai parti une petite compagnie avec un de mes amis où on construit des sites internets pour des entrepreneurs ou des compagnies",
+            "exemple": "https://nugaz.com/",
             "implication": [
                 {
-                   "name": "Signaleur pour les cyclistes"
+                   "name": "Comprendre les besoins du clients"
                 },
                 {
-                    "name": "Remplir les bouteilles d'eau"
+                    "name": "Développer un site internet créatif de haute qualité visuel"
                 },
                 {
-                    "name": "S'assurer du bon fonctionnement de l'événement"
+                    "name": "Déployer le site internet"
                 }
             ]
         },
         {
-            "projetName": "Bénévolat",
-            "organisation": "Élections canadiennes",
-            "image": "electionCanada.jpg",
+            "projetName": "Vice-président aux activités sociaux culturelles",
+            "organisation": "Association des étudiants en informatique de l'université laval",
+            "image": "asetin.png",
             "date": "Octobre 2019",
-            "description": "Préposé au scrutin pour les élections fédérales de 2019",
+            "description": "Je suis le VP socio pour le monde en informatique à l'université laval",
+            "exemple": "",
             "implication": [
                 {
-                   "name": "Compter les votes"
+                   "name": "Organiser des activités pour nos étudiants"
                 },
                 {
-                    "name": "Accueillir les voteurs"
+                    "name": "Prendre des prises de positions sur différents sujets touchant notre association"
                 },
                 {
-                    "name": "Garder les votes des participants secrets"
+                    "name": "Faire preuve de créativité pour organiser de nouvelles activités aux étudiants"
+                }
+            ]
+        },
+        {
+            "projetName": "Développement d'un application mobile",
+            "organisation": "Projet personnel",
+            "image": "asetin.png",
+            "date": "Octobre 2019",
+            "description": "Je suis le VP socio pour le monde en informatique à l'université laval",
+            "exemple": "",
+            "implication": [
+                {
+                   "name": "Organiser des activités pour nos étudiants"
+                },
+                {
+                    "name": "Prendre des prises de positions sur différents sujets touchant notre association"
+                },
+                {
+                    "name": "Faire preuve de créativité pour organiser de nouvelles activités aux étudiants"
                 }
             ]
         }

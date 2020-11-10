@@ -1,46 +1,46 @@
 {
-    "name": "Charles Boivin",
-    "picture": "profilPicAvatar.jpg",
-    "profession": "Comptable",
-    "courriel": "charlesboivin@gmail.com",
-    "telephone": "678-123-654",
+    "name": "Philippe Vincent",
+    "picture": "photoPhilippe.jpeg",
+    "profession": "Étudiant en génie logiciel",
+    "courriel": "philippe.vincent.3@ulaval.ca",
+    "telephone": "581-999-5805",
     "loisirs" : {
         "nomSection" : "Loisirs",
         "loisirs": [{
-            "name":"Basket-ball",
+            "name":"Sports",
             "picture": "login.jpg",
-            "description": "J'adore joué au basket dans mes temps libres'"
+            "description": "Je suis un passioné de sports, je pratique de nombreux sports mais les deux sports que je préfère sont le hockey ainsi que le vélo de montagne"
         },
         {
-            "name":"Ski",
+            "name":"Voyage",
             "picture": "login.jpg",
-            "description": "J'adore faire du ski, je fais des voyages de ski chaque hiver"
+            "description": "J'adore voyager, j'aime partir à l'extérieur du Québec pour découvrir de nouvelles cultures et des nouvelles expériences"
         },
         {
-            "name":"Pêche",
+            "name":"Lecture",
             "picture": "login.jpg",
-            "description": "J'adore aller à la pêche, je pêche surtout du saumon'"
+            "description": "J'adore apprendre de nouvelles choses, je lie énormément de livre depuis que je suis très jeune"
         },
         {
-            "name":"Golf",
+            "name":"Plein air",
             "picture": "login.jpg",
-            "description": "Rien de plus relaxant qu'une partie de golf"
+            "description": "J'adore me retrouver en plein coeur de la nature pour respirer de l'air frais tout en fesant des activités plein air"
         }]
 
     },
     "competences": {
         "nomSection" : "Compétences",
         "competence": [{
-            "competence":["Python", "Javascript", "Java", "TypeScript","C++"],
+            "competence":["TypeScript/JavaScript", "C#", "Java", "Python", "C++"],
             "name": "Langage de programmation"
         },
         {
-            "name": "Technologie",
-            "competence":["React", "VueJs", "ExpressJS", "Django","MongoDB"]
+            "name": "Technologie avancés",
+            "competence":["React", "ExpressJs", "VueJs", "React-native", "Firebase"]
         },
         {
             "name": "Qualités",
-            "competence":["Fonceur", "Courageux", "Persistant", "Gagnant","Fort"]
+            "competence":["Fonceur", "Optimiste", "Leadership", "Persévérant", "Communication"]
         }]
 
     }

@@ -101,7 +101,7 @@ function ProfilePage() {
                       alt="..."
                       style={{"heigth": 200, "width": 300}}
                       className="img-circle img-no-padding img-responsive"
-                      src={require("assets/img/profilPicAvatar.jpg")}
+                      src={require("assets/img/photoPhilippe.jpeg")}
                     />
                   </div>
                   <div className="name">

@@ -35,6 +35,10 @@ export default ({ data: projet, isMobile }) => (
                {projet.description}
           </p>
       }
+       {
+         projet.exemple !== "" &&
+      <p style={{textDecoration: "underline"}}><a className="text-underline" href={projet.exemple}> Voir un exemple d'un site construit</a> </p> 
+       }
       {
           projet.implication.length && projets(projet.implication)
       }

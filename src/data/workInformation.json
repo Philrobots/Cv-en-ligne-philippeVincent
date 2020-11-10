@@ -2,59 +2,82 @@
     "sectionName": "Expériences de travail",
     "work": [
         {
-            "name": "Desjardins",
-            "image": "desjardin.jpg",
-            "poste": "Stagiaire en comptabilité",
+            "name": "Festo Didactic ltée",
+            "image": "festoImage.jpg",
+            "poste": "Développeur logiciel",
+            "date": "Septembre 2020 - En cours",
+            "task": [
+                {
+                    "name" :"Travail dans une équipe de professionel avec une méthodologie agile"
+                },
+                {
+                    "name": "Faire le développement d'une application web complexe, autant du côté de l'interface utilisateur que du côté de la logique de l'application"
+                }
+            ]
+        },
+        {
+            "name": "Festo Didactic ltée",
+            "image": "festoImage.jpg",
+            "poste": "Stagiaire en développement d'application web",
             "date": "Juin 2020 - Août 2020",
             "task": [
                 {
-                    "name" :"Travailler dans un milieu de comptabilité"
+                    "name" :"Travail dans une équipe de professionel avec une méthodologie agile"
                 },
                 {
-                    "name": "Environnement de travail professionel"
+                    "name": "Faire le développement d'une application web complexe, autant du côté de l'interface utilisateur que du côté de la logique de l'application"
                 }
             ]
         },
         {
-            "name": "Apple",
-            "image": "apple.jpg",
-            "poste": "Vendeur",
-            "date": "Décembre 2020 - Juin 2020",
+            "name" : "Beaubois",
+            "poste":"Développeur d'application web",
+            "date": "Mai 2020",
+            "image": "beauboisLogo.jpg",
             "task": [
-                { 
-                    "name" :"Vendre des appareils Nike"
+                {
+                    "name": "Communiquez avec un client pour savoir ses besoins"
                 },
                 {
-                    "name": "Conseiller les clients"
+                    "name": "Développer une application web gérant des données excels tout en répondant aux besoins du client"
+                },
+                {
+                    "name": "Faire un suivi avec le client pour savoir si on développe une application répondant à ses besoins"
                 }
             ]
         },
         {
-            "name" : "Couche-tard",
+            "name" : "Revenu Québec",
+            "poste":"Développeur logiciel",
+            "date": "Juin 2019 - Mars 2020",
+            "image": "RevenuQuebec.png",
+            "task": [
+                {
+                    "name" :"Travail dans une équipe de professionel avec une méthodologie agile"
+                },
+                {
+                    "name": "Développer une extension Visual Studio Code pour aider l'équipe"
+                }, 
+                {
+                    "name": "Développer une application web de bas niveau avec un collègue de travail"
+                }
+            ]
+        },
+        {
+            "name" : "EKO",
             "poste":"Caissier",
-            "date": "Mai 2019 - Décembre 2019",
-            "image": "coucheTard.png",
+            "date": "Novembre 2016 - Novembre 2018",
+            "image": "EKo.jpg",
             "task": [
-                {
-                    "name" :"Répondre aux besoins des clients"
-                },
-                {
-                    "name": "Garder une bonne humeur avec les clients"
-                }
             ]
         },
         {
-            "name" : "Starbucks",
-            "poste":"Caissier",
-            "date": "Juin 2018 - Mars 2019",
-            "image": "Starbucks_Coffee_Logo.svg.png",
+            "name" : "Club de vélo du mont-saint-anne",
+            "poste":"Assistant Moniteur",
+            "date": "Été 2014",
+            "image": "msa.jpg",
             "task": [
-                {
-                    "name" :"Servir du café aux clients"
-                },
-                {
-                    "name": "Garder une bonne humeur en tout temps"
-                }
+               
             ]
         }
     ]

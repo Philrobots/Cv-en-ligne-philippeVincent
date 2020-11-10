@@ -2,19 +2,25 @@
     "sectionName": "Éducation",
     "education": [
         {
-            "name": "Université d'Oxford",
-            "program": "Maîtrise en administration des affaires",
-            "image" :"Oxford.png",
-            "date": "2022-2024",
-            "myFavoriteCourse": ["Finance", "Marché boursier", "Obligation"]
-        },
-        {
             "name": "Université Laval",
-            "program": "Baccalauréat en administration",
+            "program": "Baccalauréat en génie logiciel",
             "date": "2018-2022",
             "image" :"ulaval.png",
-            "myFavoriteCourse": ["Finance", "Marketing", "Comptabilité"
-        ]
+            "myFavoriteCourse": ["Génie logiciel orienté object", "Qualité et métriques du logiciel", "Développement d'application web"]
+        },
+        {
+            "name": "Cégep Garneau",
+            "program": "Sciences de la nature",
+            "date": "2016-2018",
+            "image" :"Garneau.png",
+            "myFavoriteCourse": ["Physique mécanique", "Physique électricité et magnétisme", "Francais 4"]
+        },
+        {
+            "name": "EF International Language Campus in Malta",
+            "program": "EF programme d'anglais intensif",
+            "date": "Été 2016",
+            "image" :"EF.jpg",
+            "myFavoriteCourse": []
         }
     ]
 }
