@@ -9,17 +9,17 @@
         "loisirs": [{
             "name":"Sports",
             "picture": "login.jpg",
-            "description": "Je suis un passioné de sports, je pratique de nombreux sports mais les deux sports que je préfère sont le hockey ainsi que le vélo de montagne"
+            "description": "Je suis un passioné de sports, je pratique de nombreux sports mais les deux que je préfère sont le hockey ainsi que le vélo de montagne"
         },
         {
             "name":"Voyage",
             "picture": "login.jpg",
-            "description": "J'adore voyager, j'aime partir à l'extérieur du Québec pour découvrir de nouvelles cultures et des nouvelles expériences"
+            "description": "J'adore voyager, j'aime partir à l'extérieur du Québec pour découvrir de nouvelles cultures et de nouvelles expériences"
         },
         {
             "name":"Lecture",
             "picture": "login.jpg",
-            "description": "J'adore apprendre de nouvelles choses, je lie énormément de livre depuis que je suis très jeune"
+            "description": "J'adore apprendre de nouvelles choses, je lie énormément de livres depuis que je suis très jeune"
         },
         {
             "name":"Plein air",

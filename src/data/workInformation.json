@@ -36,7 +36,7 @@
             "image": "beauboisLogo.jpg",
             "task": [
                 {
-                    "name": "Communiquez avec un client pour savoir ses besoins"
+                    "name": "Communiquez avec le client pour savoir ses besoins"
                 },
                 {
                     "name": "Développer une application web gérant des données excels tout en répondant aux besoins du client"
@@ -56,10 +56,10 @@
                     "name" :"Travail dans une équipe de professionel avec une méthodologie agile"
                 },
                 {
-                    "name": "Développer une extension Visual Studio Code pour aider l'équipe"
+                    "name": "Développer une extension Visual Studio Code en TypeScript"
                 }, 
                 {
-                    "name": "Développer une application web de bas niveau avec un collègue de travail"
+                    "name": "Développer une application web avec un collègue de travail qui s'occupe de la gestion des serveurs internes"
                 }
             ]
         },

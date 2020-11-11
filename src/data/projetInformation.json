@@ -6,14 +6,14 @@
             "organisation": "WeBuildSite",
             "image": "apple-icon copy.png",
             "date": "Juin 2020 - En cours",
-            "description": "J'ai parti une petite compagnie avec un de mes amis où on construit des sites internets pour des entrepreneurs ou des compagnies",
+            "description": "J'ai parti une compagnie avec un de mes amis où l'on construit des sites internets pour des entrepreneurs ou des compagnies",
             "exemple": "https://nugaz.com/",
             "implication": [
                 {
                    "name": "Comprendre les besoins du clients"
                 },
                 {
-                    "name": "Développer un site internet créatif de haute qualité visuel"
+                    "name": "Développer un site internet créatif de haute qualité visuel avec beaucoup d'animations"
                 },
                 {
                     "name": "Déployer le site internet"
@@ -44,17 +44,17 @@
             "organisation": "Projet personnel",
             "image": "mobile.jpg",
             "date": "Septembre 2020 - En cours",
-            "description": "Je suis présentement en train de développer une application mobile où les utilisateurs pourront crées, partagés des activités avec leur amis",
+            "description": "Je suis présentement en train de développer une application mobile où les utilisateurs pourront crées, partagés des activités avec leur amis. L'application sera disponible sur l'app store et le google store au début de l'été 2021",
             "exemple": "",
             "implication": [
                 {
-                   "name": "Offrir des fonctionnalités pour accorcher les utilisateurs"
+                   "name": "Offrir des fonctionnalités pour accrocher les utilisateurs"
                 },
                 {
-                    "name": "Prendre des prises de positions sur différents sujets touchant notre association"
+                    "name": "Développer une application mobile en React-Native ainsi que gérer toutes les données et la logique à l'aide de TypeScript et d'une base de données NoSql"
                 },
                 {
-                    "name": "Faire preuve de créativité pour organiser de nouvelles activités aux étudiants"
+                    "name": "Faire preuve de créativité pour développer de nouvelles fonctionnalités, apporter de nouvelles idées à l'application"
                 }
             ]
         }
