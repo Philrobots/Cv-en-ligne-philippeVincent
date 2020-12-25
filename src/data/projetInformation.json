@@ -2,8 +2,8 @@
     "sectionName": "Projets et implications",
     "projet" : [
         {
-            "projetName": "Cofondateur",
-            "organisation": "WeBuildSite",
+            "projetName": "Cofondateur de Webuild",
+            "organisation": "WeBuild",
             "image": "apple-icon copy.png",
             "date": "Juin 2020 - En cours",
             "description": "J'ai parti une compagnie avec un de mes amis où l'on construit des sites internets pour des entrepreneurs ou des compagnies",
@@ -25,7 +25,7 @@
             "organisation": "Association des étudiants en informatique de l'université laval",
             "image": "asetin.png",
             "date": "Mai 2020 - En cours",
-            "description": "Je suis le VP socio pour le monde en informatique à l'université laval, je suis donc responsable d'organiser les évênements pour les membres de notre association qui contient plus de 1 200 personnes",
+            "description": "Je suis responsable d'organiser les évênements pour les membres de notre association qui contient plus de 1 200 personnes",
             "exemple": "",
             "implication": [
                 {
@@ -35,7 +35,7 @@
                     "name": "Prendre des prises de positions sur différents sujets touchant notre association"
                 },
                 {
-                    "name": "Faire preuve de créativité pour organiser de nouvelles activités aux étudiants"
+                    "name": "Faire preuve de créativité pour organiser de nouvelles activités aux étudiants ( surtout avec la pandémie )"
                 }
             ]
         },
@@ -51,7 +51,7 @@
                    "name": "Offrir des fonctionnalités pour accrocher les utilisateurs"
                 },
                 {
-                    "name": "Développer une application mobile en React-Native ainsi que gérer toutes les données et la logique à l'aide de TypeScript et d'une base de données NoSql"
+                    "name": "Développer une application mobile en React-Native ainsi que gérer toutes les données et la logique à l'aide de TypeScript et d'une base de données No-Sql"
                 },
                 {
                     "name": "Faire preuve de créativité pour développer de nouvelles fonctionnalités, apporter de nouvelles idées à l'application"
@@ -65,17 +65,7 @@
             "date": "Décembre 2011 - En cours",
             "description": "Lorsque j'avais 12 ans, j'ai parti ma propre page facebook pour publier des blagues sur les réseaux sociaux. Bien que je ne publie plus de blagues depuis de nombreuses années, la page contient encore 1 700 abonnées !",
             "exemple": "",
-            "implication": [
-                {
-                   "name": "Utilisez sa créativité pour créer de nouvelles blagues afin de divertir les utilisateurs"
-                },
-                {
-                    "name": "Trouver de nouveaux sujets pour faire des blagues, être imaginatif"
-                },
-                {
-                    "name": "Garder une certaine persistance pour ne pas désinteressé mes abonnées"
-                }
-            ]
+            "implication": []
         }
     ]
 }

@@ -6,14 +6,21 @@
             "program": "Baccalauréat en génie logiciel",
             "date": "2018-2022",
             "image" :"ulaval.png",
-            "myFavoriteCourse": ["Génie logiciel orienté object", "Qualité et métriques du logiciel", "Développement d'application web"]
+            "myFavoriteCourse": ["Algorithmes et structures de données", "Qualité et métriques du logiciel", "Génie logiciel orienté-objet"]
+        },
+        {
+            "name": "Udacity",
+            "program": "Introduction au deep learning",
+            "date": "Décembre 2020 - Janvier 2021 ",
+            "image" :"udacit.svg",
+            "myFavoriteCourse": []
         },
         {
             "name": "Cégep Garneau",
-            "program": "Sciences de la nature",
+            "program": "Sciences de la nature et de la vie",
             "date": "2016-2018",
             "image" :"Garneau.png",
-            "myFavoriteCourse": ["Physique mécanique", "Physique électricité et magnétisme", "Francais 4 ( Présentation Oral )"]
+            "myFavoriteCourse": ["Physique mécanique", "Physique électricité et magnétisme", "Francais 4, cours de présentation oral"]
         },
         {
             "name": "EF International Language Campus in Malta",

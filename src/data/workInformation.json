@@ -2,30 +2,23 @@
     "sectionName": "Expériences de travail",
     "work": [
         {
-            "name": "Festo Didactic ltée",
+            "name": "Festo Didactique",
             "image": "festoImage.jpg",
-            "poste": "Développeur logiciel",
-            "date": "Septembre 2020 - En cours",
-            "task": [
-                {
-                    "name" :"Travail dans une équipe de professionel avec une méthodologie agile"
-                },
-                {
-                    "name": "Faire le développement d'une application web complexe, autant du côté de l'interface utilisateur que du côté de la logique de l'application"
-                }
-            ]
+            "poste": "Développeur d'application web ",
+            "date": "Septembre 2020 - Décembre 2020",
+            "task": []
         },
         {
-            "name": "Festo Didactic ltée",
+            "name": "Festo Didactique",
             "image": "festoImage.jpg",
             "poste": "Stagiaire en développement d'application web",
             "date": "Juin 2020 - Août 2020",
             "task": [
                 {
-                    "name" :"Travail dans une équipe de professionel avec une méthodologie agile"
+                    "name": "Faire le développement d'une application web complexe, autant du côté de l'interface utilisateur que du côté de la logique de l'application"
                 },
                 {
-                    "name": "Faire le développement d'une application web complexe, autant du côté de l'interface utilisateur que du côté de la logique de l'application"
+                    "name" :"Travail dans une équipe de professionel avec une méthodologie agile"
                 }
             ]
         },
@@ -36,13 +29,7 @@
             "image": "beauboisLogo.jpg",
             "task": [
                 {
-                    "name": "Communiquez avec le client pour savoir ses besoins"
-                },
-                {
-                    "name": "Développer une application web gérant des données excels tout en répondant aux besoins du client"
-                },
-                {
-                    "name": "Faire un suivi avec le client pour savoir si on développe une application répondant à ses besoins"
+                    "name": "J’ai signé un contrat d’un mois avec la compagnie Beaubois pour leur développer une application gérant et affichant leur divers prix de constructions."
                 }
             ]
         },
@@ -53,32 +40,26 @@
             "image": "RevenuQuebec.png",
             "task": [
                 {
-                    "name" :"Travail dans une équipe de professionel avec une méthodologie agile"
+                    "name": "Développement d’une extension Visual studio code seul ainsi que développement d’une application web s’occupant de l’affichage des serveurs internes."
                 },
                 {
-                    "name": "Développer une extension Visual Studio Code en TypeScript"
-                }, 
-                {
-                    "name": "Développer une application web avec un collègue de travail qui s'occupe de la gestion des serveurs internes"
+                    "name" :"Travail dans une équipe de professionel avec une méthodologie agile"
                 }
             ]
         },
         {
-            "name" : "EKO",
-            "poste":"Caissier",
+            "name" : "Station-service EKO de Wendake",
+            "poste":"Caissier, commis étalagiste",
             "date": "Novembre 2016 - Novembre 2018",
             "image": "EKo.jpg",
-            "task": [
-            ]
+            "task": []
         },
         {
             "name" : "Club de vélo du mont-saint-anne",
             "poste":"Assistant Moniteur",
             "date": "Été 2014",
             "image": "msa.jpg",
-            "task": [
-               
-            ]
+            "task": []
         }
     ]
 }

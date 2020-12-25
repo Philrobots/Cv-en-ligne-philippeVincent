@@ -24,19 +24,19 @@
         {
             "name":"Plein air",
             "picture": "login.jpg",
-            "description": "J'adore me retrouver en plein coeur de la nature pour respirer de l'air frais tout en fesant des activités plein air"
+            "description": "J'adore me retrouver en plein coeur de la nature pour respirer de l'air frais et faire des activités"
         }]
 
     },
     "competences": {
         "nomSection" : "Compétences",
         "competence": [{
-            "competence":["TypeScript/JavaScript", "C#", "Java", "Python", "C++"],
-            "name": "Langage de programmation"
+            "competence":["TypeScript", "JavaScript", "Python", "Java", "C++"],
+            "name": "Langage de programmation que j'utilise beaucoup"
         },
         {
-            "name": "Technologie avancés",
-            "competence":["React", "ExpressJs", "VueJs", "React-native", "Firebase"]
+            "name": "Quelques technologies que j'utilise beaucoup",
+            "competence":["React", "React-native", "NodeJs", "No-Sql firestore", "TensorFlow"]
         },
         {
             "name": "Qualités",

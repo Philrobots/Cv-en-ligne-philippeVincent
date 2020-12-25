@@ -40,7 +40,7 @@ export default ({ data: projet, isMobile }) => (
       <p style={{textDecoration: "underline"}}><a className="text-underline" href={projet.exemple}> Voir un exemple d'un site construit</a> </p> 
        }
       {
-          projet.implication.length && projets(projet.implication)
+          projet.implication.length > 0 && projets(projet.implication)
       }
     </CardBody>
   </Card>
